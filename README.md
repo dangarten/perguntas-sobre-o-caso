@@ -4,9 +4,9 @@ Perguntas sobre o caso do linux
 1. Quais são as vantagens e limitações de se utilizar software free-ware ou de fonte aberta como o Linux? Consulte o Linux online em www.linux.org para informações adicionais.
 Vantagens: A principal vantagem é a economia de custos. As empresas pouparam milhares de dólares por não precisarem comprar um sistema operacional comercial.
 Limitações: A maior desvantagem pode ser a falta de suporte técnico ou a necessidade de mais conhecimento para gerenciar o sistema.
-3. Por que empresas como a Jay Jacobs e a Burlington estão optando pelo Linux em lugar do Unix ou Windows NT para administrar suas operações?
+2. Por que empresas como a Jay Jacobs e a Burlington estão optando pelo Linux em lugar do Unix ou Windows NT para administrar suas operações?
 Por ser uma opção mais econômica. Elas conseguiram cortar custos consideráveis por não precisarem adquirir licenças de software comercial.
-4. O desenvolvimento do Linux demonstra uma mudança maior no desenvolvimento de softwares possibilitada pela Internet? Por quê?
+3. O desenvolvimento do Linux demonstra uma mudança maior no desenvolvimento de softwares possibilitada pela Internet? Por quê?
 Sim pois pessoas de todo o mundo podem colaborar remotamente para criar um software de alta qualidade, sem depender de uma única empresa.
 Perguntas sobre o caso do valor comercial do armazenamento de dados
 1. Por que o comércio eletrônico está aumentando enormemente a necessidade de armazenamento de dados?
