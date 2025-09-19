@@ -1,6 +1,9 @@
 # perguntas-sobre-o-caso
+
 Atividades de Sistemas Operacionais 
+
 Perguntas sobre o caso do linux
+
 1-Quais são as vantagens e limitações de se utilizar software free-ware ou de fonte aberta como o Linux? Consulte o Linux online em www.linux.org para informações adicionais.
 
 Vantagens: A principal vantagem é a economia de custos. As empresas pouparam milhares de dólares por não precisarem comprar um sistema operacional comercial.
